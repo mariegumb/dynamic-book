@@ -1,8 +1,11 @@
 # dynamic-book
 
+Dynamic Book is a simple VueJS / Tailwindcss webapp.
+
 ## Project setup
 ```
 npm install
+npm install -g json-server
 ```
 
 ### Compiles and hot-reloads for development
@@ -10,15 +13,7 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Launch embeded JSON SERVER
 ```
-npm run build
+json-server --watch db.json
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
