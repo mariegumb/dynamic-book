@@ -2,6 +2,8 @@
 
 Dynamic Book is a simple VueJS / Tailwindcss webapp.
 
+![screenshot](https://raw.githubusercontent.com/mariegumb/dynamic-book/main/assets/screenshot.png)
+
 ## Project setup
 ```
 npm install
